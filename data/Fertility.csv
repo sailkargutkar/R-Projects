@@ -1,0 +1,202 @@
+Country,Fertility,ISO-code
+Afghanistan,4.5,AFG
+Albania,1.6,ALB
+Algeria,3,DZA
+Andorra,1.3,AND
+Angola,5.5,AGO
+Antigua and Barbuda,2,ATG
+Argentina,2.3,ARG
+Armenia,1.8,ARM
+Aruba,1.9,ABW
+Australia,1.7,AUS
+Austria,1.5,AUT
+Azerbaijan,1.7,AZE
+Bahrain,2,BHR
+Bangladesh,2,BGD
+Barbados,1.6,BRB
+Belarus,1.4,BLR
+Belgium,1.6,BEL
+Belize,2.3,BLZ
+Benin,4.8,BEN
+Bermuda,1.6,BMU
+Bhutan,2,BTN
+Bolivia,2.7,BOL
+Bosnia and Herzegovina,1.3,BIH
+Botswana,2.9,BWA
+Brazil,1.7,BRA
+Brunei,1.8,BRN
+Bulgaria,1.6,BGR
+Burkina Faso,5.2,BFA
+Burundi,5.4,BDI
+Cambodia,2.5,KHM
+Cameroon,4.6,CMR
+Canada,1.5,CAN
+Cape Verde,2.3,CPV
+Central African Republic,4.7,CAF
+Chad,5.7,TCD
+Chile,1.6,CHL
+China,1.7,CHN
+Colombia,1.8,COL
+Comoros,4.2,COM
+Costa Rica,1.8,CRI
+Croatia,1.5,HRV
+Cuba,1.6,CUB
+Curacao,1.7,CUW
+Cyprus,1.3,CYP
+Czech Republic,1.7,CZE
+Democratic Republic of the Congo,5.9,COD
+Denmark,1.7,DNK
+Djibouti,2.7,DJI
+Dominica,1.9,DMA
+Dominican Republic,2.3,DOM
+East Timor,4,TLS
+Ecuador,2.4,ECU
+Egypt,3.3,EGY
+El Salvador,2,SLV
+Equatorial Guinea,4.5,GNQ
+Eritrea,4.1,ERI
+Estonia,1.7,EST
+Eswatini,3,SWZ
+Ethiopia,4.2,ETH
+Faroe Islands,2.5,FRO
+Fiji,2.8,FJI
+Finland,1.4,FIN
+France,1.9,FRA
+French Polynesia,1.9,PYF
+Gabon,4,GAB
+Georgia,2.1,GEO
+Germany,1.6,DEU
+Ghana,3.9,GHA
+Greece,1.4,GRC
+Greenland,2,GRL
+Grenada,2.1,GRD
+Guam,2.3,GUM
+Guatemala,2.9,GTM
+Guinea,4.7,GIN
+Guinea,4.5,GIN
+Guyana,2.5,GUY
+Haiti,2.9,HTI
+Honduras,2.5,HND
+Hong Kong,1.1,HKG
+Hungary,1.6,HUN
+Iceland,1.7,ISL
+India,2.2,IND
+Indonesia,2.3,IDN
+Iran,2.9,IRN
+Iraq,3.7,IRQ
+Ireland,1.8,IRL
+Isle of Man,1.6,IMN
+Israel,2.4,ISR
+Italy,1.3,ITA
+Ivory Coast,4.6,CIV
+Jamaica,2,JAM
+Japan,1.4,JPN
+Jordan,2.8,JOR
+Kazakhstan,2.8,KAZ
+Kenya,3.5,KEN
+Kiribati,3.6,KIR
+Kuwait,2.1,KWT
+Kyrgyzstan,3.3,KGZ
+Laos,2.7,LAO
+Latvia,1.6,LVA
+Lebanon,2.1,LBN
+Lesotho,3.1,LSO
+Liberia,4.3,LBR
+Libya,2.2,LBY
+Liechtenstein,1.6,LIE
+Lithuania,1.6,LTU
+Luxembourg,1.4,LUX
+Macau,1.2,MAC
+Madagascar,4.1,MDG
+Malawi,4.2,MWI
+Malaysia,2,MYS
+Maldives,1.9,MDV
+Mali,5.9,MLI
+Malta,1.2,MLT
+Marshall Islands,4,MHL
+Mauritania,4.6,MRT
+Mauritius,1.4,MUS
+Mexico,2.1,MEX
+Micronesia,3.1,FSM
+Moldova,1.3,MDA
+Mongolia,2.9,MNG
+Montenegro,1.7,MNE
+Morocco,3.1,MAR
+Mozambique,4.9,MOZ
+Myanmar,2.2,MMR
+Namibia,3.4,NAM
+Nepal,1.9,NPL
+Netherlands,1.6,NLD
+New Caledonia,2,NCL
+New Zealand,1.7,NZL
+Nicaragua,2.4,NIC
+Niger,5.3,NER
+Nigeria,5.4,NGA
+North Korea,1.9,PRK
+North Macedonia,1.5,MKD
+Norway,1.6,NOR
+Oman,2.9,OMN
+Pakistan,3.5,PAK
+Palau,2.2,PLW
+Panama,2.5,PAN
+Papua New Guinea,3.6,PNG
+Paraguay,2.4,PRY
+Peru,2.3,PER
+Philippines,2.6,PHL
+Poland,1.5,POL
+Portugal,1.4,PRT
+Qatar,1.9,QAT
+Republic of the Congo,4.4,COG
+Romania,1.8,ROU
+Russia,1.82,RUS
+Russia,1.6,RUS
+Rwanda,4,RWA
+Saint Martin,1.8,MAF
+Samoa,3.9,WSM
+San Marino,1.3,SMR
+Sao Tome and Principe,4.3,STP
+Saudi Arabia,2.3,SAU
+Senegal,4.6,SEN
+Serbia,1.5,SRB
+Seychelles,2.4,SYC
+Sierra Leone,4.3,SLE
+Singapore,1.1,SGP
+Sint Maarten,2,SXM
+Slovenia,1.6,SVN
+Solomon Islands,4.4,SLB
+Somalia,6.1,SOM
+South Africa,2.4,ZAF
+South Korea,1.6,KOR
+South Sudan,4.7,SSD
+Spain,1.3,ESP
+Sri Lanka,2.2,LKA
+Sudan,4.4,SDN
+Suriname,2.4,SUR
+Sweden,1.8,SWE
+Switzerland,1.5,CHE
+Syria,2.8,SYR
+Tajikistan,3.6,TJK
+Tanzania,4.9,TZA
+Thailand,1.5,THA
+The Bahamas,1.8,BHS
+The Gambia,5.2,GMB
+Togo,4.3,TGO
+Tonga,3.6,TON
+Trinidad and Tobago,1.7,TTO
+Tunisia,2.2,TUN
+Turkey,2.1,TUR
+Turkmenistan,2.8,TKM
+Uganda,5,UGA
+Ukraine,1.3,UKR
+United Arab Emirates,1.4,ARE
+United Kingdom,1.7,GBR
+United States,1.7,USA
+Uruguay,2,URY
+Uzbekistan,2.4,UZB
+Vanuatu,3.8,VUT
+Venezuela,2.3,VEN
+Vietnam,2,VNM
+Virgin Islands,2.1,VIR
+Yemen,3.8,YEM
+Zambia,4.6,ZMB
+Zimbabwe,3.6,ZWE

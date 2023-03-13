@@ -1,0 +1,188 @@
+Country,Meat consumption,ISO-code
+Afghanistan,17.3,AFG
+Algeria,18.3,DZA
+American Samoa,24.9,ASM
+Angola,19,AGO
+Antigua and Barbuda,56,ATG
+Argentina,79.7,ARG
+Armenia,27.7,ARM
+Australia,108.2,AUS
+Austria,94.1,AUT
+Azerbaijan,15.9,AZE
+Bahrain,70.7,BHR
+Bangladesh,3.1,BGD
+Barbados,88.7,BRB
+Belarus,58.6,BLR
+Belgium,86.1,BEL
+Belize,74.7,BLZ
+Benin,16.2,BEN
+Bhutan,3,BTN
+Bolivia,50,BOL
+Bosnia and Herzegovina,21.4,BIH
+Botswana,27.3,BWA
+Brazil,82.4,BRA
+Bulgaria,69.4,BGR
+Burkina Faso,11.2,BFA
+Burundi,3.5,BDI
+Cambodia,13.9,KHM
+Cameroon,14.4,CMR
+Canada,108.1,CAN
+Cape Verde,26.3,CPV
+Central African Republic,28,CAF
+Chad,14.3,TCD
+Chile,66.4,CHL
+China,52.4,CHN
+Colombia,33.9,COL
+Comoros,7.6,COM
+Costa Rica,40.4,CRI
+Croatia,49.9,HRV
+Cuba,32.2,CUB
+Cyprus,131.3,CYP
+Czech Republic,77.3,CZE
+Democratic Republic of the Congo,4.8,COD
+Denmark,145.9,DNK
+Djibouti,17.1,DJI
+Dominica,67.1,DMA
+Dominican Republic,37.8,DOM
+East Timor,41.3,TLS
+Ecuador,45,ECU
+Egypt,22.5,EGY
+El Salvador,21.4,SLV
+Eritrea,7.7,ERI
+Estonia,67.4,EST
+Ethiopia,7.9,ETH
+Fiji,39.1,FJI
+Finland,67.4,FIN
+FR Yugoslavia,77.6,
+France,101.1,FRA
+French Guiana,13.2,GUF
+French Polynesia,112.2,PYF
+Gabon,46,GAB
+Georgia,26,GEO
+Germany,82.1,DEU
+Ghana,9.9,GHA
+Greece,78.7,GRC
+Greenland,63.4,GRL
+Grenada,97,GRD
+Guadeloupe,12.7,GLP
+Guam,52.6,GUM
+Guatemala,23.8,GTM
+Guinea,6.5,GIN
+Guinea,13,GIN
+Guyana,31.8,GUY
+Haiti,15.3,HTI
+Honduras,24.7,HND
+Hungary,100.7,HUN
+Iceland,84.8,ISL
+India,5.2,IND
+Indonesia,8.3,IDN
+Iran,23.1,IRN
+Iraq,18.2,IRQ
+Ireland,106.3,IRL
+Israel,97.1,ISR
+Italy,90.4,ITA
+Ivory Coast,11.3,CIV
+Jamaica,56.8,JAM
+Japan,45.9,JPN
+Jordan,29.8,JOR
+Kazakhstan,44.8,KAZ
+Kenya,14.3,KEN
+Kiribati,32.1,KIR
+Kuwait,60.2,KWT
+Kyrgyzstan,39,KGZ
+Laos,15,LAO
+Latvia,45.7,LVA
+Lebanon,63.1,LBN
+Lesotho,15.4,LSO
+Liberia,7.9,LBR
+Libya,28.6,LBY
+Lithuania,49.5,LTU
+Luxembourg,141.7,LUX
+Madagascar,17.6,MDG
+Malawi,5.1,MWI
+Malaysia,50.9,MYS
+Maldives,16.6,MDV
+Mali,19,MLI
+Malta,86.9,MLT
+Martinique,13.9,MTQ
+Mauritania,29.9,MRT
+Mauritius,39.6,MUS
+Mexico,58.6,MEX
+Moldova,22.7,MDA
+Mongolia,108.8,MNG
+Morocco,20.6,MAR
+Mozambique,5.6,MOZ
+Myanmar,10.7,MMR
+Namibia,34,NAM
+Nepal,10,NPL
+Netherlands,89.3,NLD
+New Caledonia,76.6,NCL
+New Zealand,142.1,NZL
+Nicaragua,14.9,NIC
+Niger,11.2,NER
+Nigeria,8.6,NGA
+North Korea,10.8,PRK
+North Macedonia,35.4,MKD
+Norway,61.7,NOR
+Oman,49.8,OMN
+Pakistan,12.3,PAK
+Panama,54.5,PAN
+Papua New Guinea,73,PNG
+Paraguay,70.3,PRY
+Peru,34.5,PER
+Philippines,31.1,PHL
+Poland,78.1,POL
+Portugal,91.1,PRT
+Qatar,90.5,QAT
+Republic of the Congo,13.3,COG
+Romania,54.5,ROU
+Russia,51,RUS
+Rwanda,4.4,RWA
+Saint Kitts and Nevis,99.3,KNA
+Saint Lucia,124.1,LCA
+Saint Vincent and the Grenadines,79.1,VCT
+Samoa,82.6,WSM
+Sao Tome and Principe,9.6,STP
+Saudi Arabia,44.6,SAU
+Senegal,17.7,SEN
+Seychelles,51.1,SYC
+Sierra Leone,6.1,SLE
+Singapore,71.1,SGP
+Slovakia,67.4,SVK
+Slovenia,88,SVN
+Solomon Islands,9.7,SLB
+Somalia,9.5,SOM
+South Africa,39,ZAF
+South Korea,48,KOR
+South Sudan,13.1,SSD
+Spain,118.6,ESP
+Sri Lanka,6.6,LKA
+Sudan,21,SDN
+Suriname,40.3,SUR
+Sweden,76.1,SWE
+Switzerland,72.9,CHE
+Syria,21.2,SYR
+Tajikistan,8.7,TJK
+Tanzania,10,TZA
+Thailand,27.9,THA
+The Bahamas,123.6,BHS
+The Gambia,5.2,GMB
+Togo,8.5,TGO
+Trinidad and Tobago,57.8,TTO
+Tunisia,25.5,TUN
+Turkey,19.3,TUR
+Turkmenistan,41.7,TKM
+Uganda,11.7,UGA
+Ukraine,32.3,UKR
+United Arab Emirates,74.4,ARE
+United Kingdom,79.6,GBR
+United States,124.8,USA
+Uruguay,98.6,URY
+Uzbekistan,20.7,UZB
+Vanuatu,32.6,VUT
+Venezuela,56.6,VEN
+Vietnam,28.6,VNM
+Virgin Islands,6.6,VIR
+Yemen,14.7,YEM
+Zambia,11.9,ZMB
+Zimbabwe,15.2,ZWE
